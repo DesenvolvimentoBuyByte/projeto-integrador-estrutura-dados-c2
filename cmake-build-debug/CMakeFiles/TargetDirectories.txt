@@ -1,0 +1,3 @@
+C:/Users/shado/CLionProjects/projeto-integrativo-c2/cmake-build-debug/CMakeFiles/projeto_integrativo_c2.dir
+C:/Users/shado/CLionProjects/projeto-integrativo-c2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shado/CLionProjects/projeto-integrativo-c2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
